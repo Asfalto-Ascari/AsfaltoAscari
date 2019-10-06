@@ -21,7 +21,7 @@ contact:
 - {name: "Email", icon: "ion-ios-mail", link: "mailto:forexample@website.com"}
 
 # Slider Section
-slider: Life # NOTE - By default, the slider is set to display tags. Now the slider shows the tag with the text "Life". If you do not want to use the slider, leave the slider field empty.
+slider: Headlines # NOTE - By default, the slider is set to display tags. Now the slider shows the tag with the text "Life". If you do not want to use the slider, leave the slider field empty.
 
 # Comment Section (Disqus)
 disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
