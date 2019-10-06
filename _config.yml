@@ -24,7 +24,7 @@ contact:
 slider: Headlines # NOTE - By default, the slider is set to display tags. Now the slider shows the tag with the text "Life". If you do not want to use the slider, leave the slider field empty.
 
 # Comment Section (Disqus)
-disqus-identifier: Asfalto-Ascari
+disqus-identifier: asfaltoascari
 
 # Instagram Feed
 instafeed: true # To enable the instafeed, use the value true. To turn off use the value false.
