@@ -13,27 +13,27 @@ author:
 # Example of adding a new link to the footer - {name: "Github", icon: "ion-logo-github", link: "https://github.com"}
 # Other icons can be found at https://ionicons.com
 contact:
-- {name: "Twitter", icon: "ion-logo-twitter", link: "https://twitter.com"}
-- {name: "Facebook", icon: "ion-logo-facebook", link: "https://facebook.com"}
+- {name: "Twitter", icon: "ion-logo-twitter", link: "https://twitter.com/AsfaltoAscari"}
+- {name: "Facebook", icon: "ion-logo-facebook", link: "https://www.facebook.com/AsfaltoAscari"}
 #- {name: "Dribbble", icon: "ion-logo-dribbble", link: "https://dribbble.com"}
-- {name: "Instagram", icon: "ion-logo-instagram", link: "https://instagram.com"}
+- {name: "Instagram", icon: "ion-logo-instagram", link: "https://www.instagram.com/asfaltoascari/"}
 # - {name: "Pinterest", icon: "ion-logo-pinterest", link: "https://pinterest.com"}
-- {name: "Email", icon: "ion-ios-mail", link: "mailto:forexample@website.com"}
+- {name: "Email", icon: "ion-ios-mail", link: "mailto:mediarelations@asfaltoascari.com"}
 
 # Slider Section
 slider: Headlines # NOTE - By default, the slider is set to display tags. Now the slider shows the tag with the text "Life". If you do not want to use the slider, leave the slider field empty.
 
 # Comment Section (Disqus)
-disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: Asfalto-Ascari
 
 # Instagram Feed
 instafeed: true # To enable the instafeed, use the value true. To turn off use the value false.
-instagram-profile: https://www.instagram.com
+instagram-profile: https://www.instagram.com/asfaltoascari/
 userID: 6716400487
 accessToken: 6716400487.1677ed0.4fae51c47bc544a895b81756a7d0c477
 
 # Google Analytics
-google-analytics: # Add your identifier. For example UA-99631805-1.
+google-analytics: UA-149505541-1
 
 # Build settings
 markdown: kramdown
