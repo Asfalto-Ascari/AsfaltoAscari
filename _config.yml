@@ -1,5 +1,5 @@
 title: Asfalto Ascari
-logo: '/images/logo.png'
+logo: '/images/Logo4eWhite.png'
 description: WIP
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -7,7 +7,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Author Settings
 author:
   name: Asfalto Ascari
-  image: '/images/01.jpg'
+  image: '/images/Logo4eWhite.png'
 
 # Contact links
 # Example of adding a new link to the footer - {name: "Github", icon: "ion-logo-github", link: "https://github.com"}
