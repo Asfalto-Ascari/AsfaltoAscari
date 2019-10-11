@@ -18,8 +18,8 @@ contact:
 #- {name: "Dribbble", icon: "ion-logo-dribbble", link: "https://dribbble.com"}
 - {name: "Instagram", icon: "ion-logo-instagram", link: "https://www.instagram.com/asfaltoascari/"}
 # - {name: "Pinterest", icon: "ion-logo-pinterest", link: "https://pinterest.com"}
-- {name: "Email", icon: "ion-ios-mail", link: "mailto:mediarelations@asfaltoascari.com"}
-- {name: "Mail-Portal", icon: "ion-mail", link: "https://mail.asfaltoascari.com"}
+- {name: "Email", icon: "ion-icon-send", link: "mailto:mediarelations@asfaltoascari.com"}
+- {name: "Mail-Portal", icon: "ion-icon-mail", link: "https://mail.asfaltoascari.com"}
 
 # Slider Section
 slider: Headlines # NOTE - By default, the slider is set to display tags. Now the slider shows the tag with the text "Life". If you do not want to use the slider, leave the slider field empty.
