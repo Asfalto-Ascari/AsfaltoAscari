@@ -3,15 +3,15 @@
   bottom: 40px;
   right: -100px;
 	z-index: 1;
-	width: 40px;
+	width: 55px;
   height: 40px;
   line-height: 40px;
   text-align: center;
-	background-color: $light-gray;
-	color: $dark;
+	background-color: $AsfaltoRed;
+	color: $white;
 	cursor: pointer;
 	transition: all .25s ease;
-  
+
   &.is-active {
     right: 40px;
   }
