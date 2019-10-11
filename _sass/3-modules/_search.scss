@@ -8,7 +8,7 @@
   z-index: -1;
   transform: scale(0.95);
   opacity: 0;
-  background: #fff;
+  background: #191919;
   transition: all .25s ease;
   &.is-visible {
     transform: scale(1);
@@ -44,11 +44,13 @@
   .search__text {
     width: 100%;
     padding: 20px 20px 20px 0;
+    background: #191919;
     font-family: 'Josefin Sans', Helvetica, Arial, sans-serif;
     font-size: 37px;
     line-height: 40px;
     border: none;
-    border-bottom: 3px solid $dark;
+    border-bottom: 3px solid;
+    border-color: #fff
     color: $dark;
     &::placeholder {
       font-weight: 700;
