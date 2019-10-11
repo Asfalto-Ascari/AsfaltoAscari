@@ -100,7 +100,7 @@
     height: 100vh;
     padding: 40px 30px 30px;
     transition: right 0.5s cubic-bezier(0.7, 0.4, 0, 1);
-    background: #fff;
+    background: #191919;
     &.is-open {
       right: 0;
     }
@@ -133,6 +133,7 @@
   align-items: center;
 
   .nav__icon-close {
+
     display: none;
     font-size: 24px;
     text-align: right;
@@ -187,6 +188,7 @@
   display: flex;
   align-items: center;
   font-size: 21px;
+  color : $white;
 
   .nav__icon {
     cursor: pointer;
