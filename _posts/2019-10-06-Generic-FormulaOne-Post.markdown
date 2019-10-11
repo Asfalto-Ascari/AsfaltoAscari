@@ -2,7 +2,7 @@
 layout: post
 title:  "Circuit de Spa-Francorchamps"
 date:   2019-05-29 18:05:55 +0300
-image:  '\images\Media\IMG_1714.png'
+image:  '/images/Media/IMG_1714.png'
 tags:   Headlines
 ---
 
@@ -12,7 +12,7 @@ From Wikipedia:
 
 The Circuit de Spa-Francorchamps is a motor-racing circuit located in Stavelot, Belgium. It is also referred to as Spa and is the venue of the Formula One Belgian Grand Prix, and the Spa 24 Hours and 1000 km Spa endurance races.
 
-It is also home to the all-Volkswagen club event, 25 Hours of Spa, run by the Uniroyal Fun Cup. It is one of the most challenging race tracks in the world, mainly due to its fast, hilly and twisty nature. Spa is a favourite circuit of many racing drivers and fans.[1][2][3]
+It is also home to the all-Volkswagen club event, 25 Hours of Spa, run by the Uniroyal Fun Cup. It is one of the most challenging race tracks in the world, mainly due to its fast, hilly and twisty nature. Spa is a favourite circuit of many racing drivers and fans.
 
 Despite its name, the circuit is not in Spa but lies in the vicinity of the town of Francorchamps within the boundaries of the municipality of Stavelot, with a part in the boundaries of Malmedy.
 
