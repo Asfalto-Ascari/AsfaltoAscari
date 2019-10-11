@@ -32,7 +32,7 @@
 .search__group {
   position: relative;
   margin-bottom: 30px;
-
+  background: #191919;
   .search__close {
     position: absolute;
     right: 0;
@@ -42,13 +42,15 @@
   }
 
   .search__text {
+    background-color: #191919
     width: 100%;
     padding: 20px 20px 20px 0;
     font-family: 'Josefin Sans', Helvetica, Arial, sans-serif;
     font-size: 37px;
     line-height: 40px;
     border: none;
-    border-bottom: 3px solid $white;
+    border-bottom: 3px solid;
+    border-color: #FC2100
     color: $white;
     &::placeholder {
       font-weight: 700;
