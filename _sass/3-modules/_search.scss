@@ -42,7 +42,7 @@
   }
 
   .search__text {
-    background-color: #191919
+
     width: 100%;
     padding: 20px 20px 20px 0;
     font-family: 'Josefin Sans', Helvetica, Arial, sans-serif;
@@ -51,6 +51,7 @@
     border: none;
     border-bottom: 3px solid;
     border-color: #FC2100
+    background-color: #191919
     color: $white;
     &::placeholder {
       font-weight: 700;
