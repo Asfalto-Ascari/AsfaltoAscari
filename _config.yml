@@ -1,8 +1,8 @@
 title: Asfalto Ascari
-logo: '/images/WebDesign/SVG/Logo.svg'
-description: WIP
+logo: '/images/WebDesign/PNG/AA_LogoWhite.png'
+description: Formula One Community
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://asfaltoascari.com/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author Settings
 author:

@@ -6,7 +6,8 @@
   z-index: 10;
   width: 100%;
   height: auto;
-  background: url("/images/WebDesign/SVG/Banner.svg");
+  background: url("/images/WebDesign/PNG/Banner.png");
+  background-size: cover;
   transition: $global-transition;
   &.is-hide {
     top: -80px;
