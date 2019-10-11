@@ -9,7 +9,7 @@
   background: #FC2100;
   transition: $global-transition;
   &.is-hide {
-    top: -120px;
+    top: -80px;
   }
 
   .header__overlay {
@@ -19,7 +19,7 @@
     bottom: 0;
     left: 0;
     z-index: 10;
-    background-color: rgba(17,17,17,0.7);
+    background-color: rgba(255,255,255,0.7);
     cursor: pointer;
     opacity: 0;
     visibility: hidden;
