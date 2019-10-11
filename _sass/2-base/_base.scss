@@ -7,7 +7,8 @@ body {
   font-size: $base-font-size;
   line-height: $base-line-height;
   color: $text-color;
-  background-color: $background-color;
+  //background-color: $background-color;
+  background-image: url(images/WebDesign/PNG/dot-grid.png);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   input, textarea {
@@ -20,7 +21,7 @@ body {
       border-color: #34a74e;
     }
   }
-  
+
   @media only screen and (max-width: $mobile) {
     font-size: 16px;
     line-height: 29px;
@@ -78,7 +79,7 @@ blockquote {
   line-height: 34px;
   border-left: 3px solid $brand-color;
   font-style: normal;
-  
+
   cite {
     font-size: 16px;
     font-style: normal;
@@ -104,7 +105,7 @@ pre {
   word-break: break-all;
 }
 
-img, 
+img,
 .zoom-img-wrap {
   max-width: 100%;
   height: auto;
