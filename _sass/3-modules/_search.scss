@@ -8,7 +8,7 @@
   z-index: -1;
   transform: scale(0.95);
   opacity: 0;
-  background: #fff;
+  background: #191919;
   transition: all .25s ease;
   &.is-visible {
     transform: scale(1);
@@ -48,8 +48,8 @@
     font-size: 37px;
     line-height: 40px;
     border: none;
-    border-bottom: 3px solid $dark;
-    color: $dark;
+    border-bottom: 3px solid $white;
+    color: $white;
     &::placeholder {
       font-weight: 700;
       color: #bbb;
@@ -75,7 +75,7 @@
     margin-bottom: 10px;
   }
 
-  
+
   .search-results__link {
     display: block;
     padding: 20px 15px;
