@@ -22,7 +22,7 @@ Quite a informal post but oh well - 'Ant'
 
 ## Other
 
-https://i.kinja-img.com/gawker-media/image/upload/s--jK1_TPrA--/c_fill,f_auto,fl_progressive,g_center,h_264,q_80,w_470/zhn86qedkc8jsajgchh7.gif
+![Nyoom](https://i.kinja-img.com/gawker-media/image/upload/s--jK1_TPrA--/c_fill,f_auto,fl_progressive,g_center,h_264,q_80,w_470/zhn86qedkc8jsajgchh7.gif)
 
 etc.
 
