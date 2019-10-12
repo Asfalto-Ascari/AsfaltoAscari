@@ -2,7 +2,7 @@
 layout: post
 title:  "Testing Posts"
 date:   2019-10-12 18:05:55 +0300
-image:  '/images/Media/IMG_1714.png'
+image:  '/images/Media/IMG_1722.webp'
 tags:   Headlines
 ---
 
