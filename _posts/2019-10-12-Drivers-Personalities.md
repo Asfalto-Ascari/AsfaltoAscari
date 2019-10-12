@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hidden F1 Personalities
-image: 'https://media.tenor.com/images/86b6ea72af38939c4b5dda0fc43cde56/tenor.gif'
+image: 'https://media1.tenor.com/images/db6dbd9f3fe68bdfbfe490eb9b69d5a4/tenor.gif?itemid=11061381'
 ---
 Quite a informal post but oh well - 'Ant'
 
