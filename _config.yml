@@ -69,5 +69,9 @@ sass:
 
   # Plugin cmd & others
   compress_images:
+<<<<<<< HEAD
 
   images_path: "/images/Media/**/*.{gif,png,jpg,jpeg,svg}"
+=======
+  images_path: "/images/Media/**"
+>>>>>>> 90bb91d5564770b7276fe14cbf1537a5c90aa362
