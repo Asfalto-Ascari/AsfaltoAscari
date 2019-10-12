@@ -45,6 +45,8 @@ plugins:
   - jekyll/tagging
   - jekyll-compress-images
   - jekyll-language-plugin
+  - jekyll-seo-tag
+  - github-pages-health-check
 
 paginate: 9
 paginate_path: "/page/:num"
@@ -69,8 +71,3 @@ sass:
   style: compressed
 
   # Plugin cmd & others
-compress_images:
-  images_path: "/images/Media/**/*.{gif,png,jpg,jpeg,svg}"
-
-language_data: data.lang.en
-language_includes_dir: _i18n
