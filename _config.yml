@@ -44,6 +44,7 @@ plugins:
   - jekyll-sitemap
   - jekyll/tagging
   - jekyll-compress-images
+  - jekyll-language-plugin
 
 paginate: 9
 paginate_path: "/page/:num"
@@ -70,3 +71,6 @@ sass:
   # Plugin cmd & others
 compress_images:
   images_path: "/images/Media/**/*.{gif,png,jpg,jpeg,svg}"
+
+language_data: data.lang.en
+  language_includes_dir: _i18n
