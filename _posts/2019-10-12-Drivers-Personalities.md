@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hidden F1 Personalities
-image: 'https://tenor.com/view/max-verstappen-dabbing-red-bull-daniel-ricciardo-dancing-gif-11061381'
+image: 'https://media.tenor.com/images/86b6ea72af38939c4b5dda0fc43cde56/tenor.gif'
 ---
 Quite a informal post but oh well - 'Ant'
 
