@@ -29,7 +29,7 @@ The collision between Leclerc and Verstappen in the first lap meant that the Mon
 
  ![](/images/Media/002HamiltonHitJP.gif)
 
-https://twitter.com/AlbertFabrega/status/1183292184126033920
+![Twitter - Hamilton's Broken Mirror](https://twitter.com/AlbertFabrega/status/1183292184126033920)
 
 As a result of the debris, Leclerc was given a further 10-second time penalty and his team Ferrari were fined €25,000.
 
