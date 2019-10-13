@@ -8,9 +8,6 @@ tags:
 - Japanese GP
 - Formula 1
 - FIA
-- Ferrari
-- Charles Leclerc
-- Max Verstappen
 ---
 
 # Charles Leclerc demoted twice to P7 in Japan for double race sanctions  
