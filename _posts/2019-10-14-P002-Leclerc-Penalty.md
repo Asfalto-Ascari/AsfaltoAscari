@@ -15,7 +15,8 @@ tags:
 The FIA Stewards deemed Leclerc to be 'predominantly' at fault for the incident between Verstappen and himself and issued a five-second time penalty as well as two penalty points on his license.
 
 The stewards said in a statement:
-> Car 33 [Verstappen], which was marginally in front, stayed wide and allowed sufficient room to the inside but car 16 lost front grip in the wake of the car in front and abruptly understeered towards the outside of the track, contacting car 33 and forcing it off the track  
+> Car 33 [Verstappen], which was marginally in front, stayed wide and allowed sufficient room to the inside but car 16 lost front grip in the wake of the car in front and abruptly understeered towards the outside of the track, contacting car 33 and forcing it off the track.
+
 While the loss of front grip on car 16 [Leclerc] caused the contact and was not intentional, that loss of grip in close proximity to the car in front should have been anticipated and allowed for by car 16.
 
 The collision itself issued a five second penalty but further sanctions were imposed on Leclerc for continuing to drive a lap further in an 'unsafe conditions' following the contact, which also involved an investigation on Ferrari.
