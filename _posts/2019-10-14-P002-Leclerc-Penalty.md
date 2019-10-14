@@ -12,7 +12,7 @@ tags:
 
 # Charles Leclerc demoted twice to P7 in Japan for double race sanctions  
 
-The FIA Stewards deemed Leclerc to be 'predominantly' at fault for the incident between Verstappen and himself and issued a five-second time penalty as well as two penalty points on his license. (Which then later **escalated in fifteen seconds** due to chain of event occurring.)
+The FIA Stewards deemed Leclerc to be 'predominantly' at fault for the incident between Verstappen and himself and issued a five-second time penalty as well as two penalty points on his license. (Which then later **escalated to fifteen seconds** due to chain of event occurring.)
 
 The stewards said in a statement:
 > Car 33 [Verstappen], which was marginally in front, stayed wide and allowed sufficient room to the inside but car 16 lost front grip in the wake of the car in front and abruptly understeered towards the outside of the track, contacting car 33 and forcing it off the track.
