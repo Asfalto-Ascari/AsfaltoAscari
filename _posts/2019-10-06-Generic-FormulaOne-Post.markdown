@@ -21,7 +21,7 @@ Despite its name, the circuit is not in Spa but lies in the vicinity of the town
 # A McLaren Car
 
 <div class="sketchfab-embed-wrapper">
-    <iframe title="A 3D model" width="1280" height="960" src="https://sketchfab.com/models/61df207f43484fac9e045c561d54a418/embed?autospin=0.2&amp;autostart=1&amp;preload=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    <iframe title="A 3D model" height="960" src="https://sketchfab.com/models/61df207f43484fac9e045c561d54a418/embed?autospin=0.2&amp;autostart=1&amp;preload=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
     <a href="https://sketchfab.com/3d-models/mclaren-renault-mcl34-type-c-61df207f43484fac9e045c561d54a418?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">McLaren Renault MCL34 - Type C</a>
