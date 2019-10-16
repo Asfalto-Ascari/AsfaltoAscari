@@ -9,7 +9,7 @@ tags:
 - Data
 ---
 
-# Track Sensors
+# Behind the Scenes with Formula One's Track Sensors
 
 Track Sensors were first introduced by Formula 1 in 2015 to find solutions that help enforce track limits with electronic ideas, so that consistency was placed towards the enforcement of sanctions.  
 
