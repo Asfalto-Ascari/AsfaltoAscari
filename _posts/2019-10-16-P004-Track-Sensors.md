@@ -15,9 +15,11 @@ Track Sensors were first introduced by Formula 1 in 2015 to find solutions that 
 
 The system works by placing sensors on the edge of the track at turns mainly where runoff areas were the same height as the track kerbs.
 
-For every race - these sensors have to be removed and collected for use another time, for the average Formula Track there are a several dozen sensors scattered around.
+For every race - these sensors have to be removed every weekend, for the average Formula Track there are a several dozen sensors scattered around.
 
-> [People] have no clue the volume and effort put in place.
+> They're expensive sensors and they probably get upgraded occasionally - easier to keep that consistent (and guarantee they're not compromised while you're away) if you take them "on tour" with the whole circus.
+
+> [People] have no clue the volume and effort put in place when installing these sensors.
 
 Precisely positioned holes are excavated from the track ground and pressured air is blown into the hole - clearing out the debris created from the excavation and the sensor is fed into the hole and put in place by a chemical bond.
 
