@@ -20,11 +20,11 @@ Derived from the clothing brand under the same name, it is believed by Asfalto A
 
 Red Bull has consistently hinted at the idea of expanding from Energy Drinks ever since its entrance into extreme sports and motorsport.
 
-This decision to change the name to promote the fashion brand is **in response to an e-vote which allowed the F1 Commission and FIA to vote** on whether the name change should be approved.
+This decision to change the name to promote the fashion brand is in response to an e-vote which allowed the F1 Commission and FIA to vote on whether the name change should be approved.
 
-The vote results came up **unanimous** in support of the change. 
+The vote results came up unanimous in support of the change. 
 
-This is the first time the team has had its name changed in **19 years** after Red Bull bought out Minardi, with the new "Alpha Tauri" name to come **into effect in the 2020 season.**
+This is the first time the team has had its name changed in 19 years after Red Bull bought out Minardi, with the new "Alpha Tauri" name to come **into effect in the 2020 season.**
 
 The name "Alpha Tauri" is taken from a star named [Aldebaran](https://en.wikipedia.org/wiki/Aldebaran "This link will take you to Wikipedia"), which is designated as Alpha Tauri, not to be confused with Alpha Centauri, the closest star to our Solar System.
 
