@@ -20,6 +20,8 @@ Derived from the clothing brand under the same name, it is believed by Asfalto A
 
 Red Bull has consistently hinted at the idea of expanding from Energy Drinks ever since its entrance into extreme sports and motorsport.
 
+![alt text]('/images/Media/005AlphaTauri.jpg')
+
 This decision to change the name to promote the fashion brand is in response to an e-vote which allowed the F1 Commission and FIA to vote on whether the name change should be approved.
 
 The vote results came up unanimous in support of the change. 
