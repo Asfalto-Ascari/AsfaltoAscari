@@ -31,3 +31,5 @@ The name "Alpha Tauri" is taken from a star named [Aldebaran](https://en.wikiped
 Toro Rosso's current name until 2020 is the Italian translation for Red Bull, matching the prefix word "Scuderia", meaning stable in Italian, used to convey the idea of horsepower.
 
 Whether we'll see Albon, Gasly, Kvyat or a new challenger, it will be a refreshing and exciting change to see Toro Rosso bearing its new name.
+
+JO
