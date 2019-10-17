@@ -16,7 +16,7 @@ tags:
 
 In a rather interesting event, Red Bull's feeder team Toro Rosso has been **approved for a name change to "Alpha Tauri".**
 
-Derived from the clothing brand under the same name, it is believed by Asfalto Ascari to **promote the clothing brand** and advertise it, increasing its prominence in the industry. 
+Derived from the clothing brand under the same name, the Asfalto Ascari community believes that this was to **promote the clothing brand** and advertise it, increasing its prominence in the industry.
 
 Red Bull has consistently hinted at the idea of expanding from Energy Drinks ever since its entrance into extreme sports and motorsport.
 
@@ -26,7 +26,7 @@ Red Bull has consistently hinted at the idea of expanding from Energy Drinks eve
 
 This decision to change the name to promote the fashion brand is in response to an e-vote which allowed the F1 Commission and FIA to vote on whether the name change should be approved.
 
-The vote results came up unanimous in support of the change. 
+The vote results came up unanimous in support of the change.
 
 This is the first time the team has had its name changed in 19 years after Red Bull bought out Minardi, with the new "Alpha Tauri" name to come **into effect in the 2020 season.**
 
