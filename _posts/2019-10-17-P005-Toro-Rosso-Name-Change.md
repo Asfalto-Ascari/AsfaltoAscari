@@ -2,7 +2,7 @@
 layout: post
 title: "Toro Rosso to change name to Alpha Tauri"
 date: 2019-10-17 19:41:40 +0000
-image: '/images/Media/005ToroRosso'
+image: '/images/Media/005ToroRosso.jpg'
 tags:
 - Headlines
 - Formula 1
