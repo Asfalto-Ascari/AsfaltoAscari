@@ -36,3 +36,5 @@ The new floor has also been showcased, with a more sleek and natural design, mos
 The car also sports an interesting wing design, which has been enlarged length-wise in comparison to the 2019 car. This reasoning according to FIA is to move the air higher up from behind the car - this could mean the dirty air from the wing essentially near-misses the car behind. The wing also assists with the ground effect tunnels under the car, making room and creating further points of airflow.
 
 F1's new car also has the new sidepods, which have a slanted look to them, creating a sense of speed when looking at a car in a photo.
+
+JO
