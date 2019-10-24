@@ -2,7 +2,7 @@
 layout: post
 title:  "JPN GP Renault Disqualification due to Sporting Regulation Violation"
 date:   2019-10-24 10:17:30 -1
-image:  '/images/Media/007CoverImageRenaultRacingPoint.jpg'
+image:  '/images/Media/007CoverImageRenaultRacingPoint.jpg.jpg'
 tags:   
 - Formula 1
 - Headlines
