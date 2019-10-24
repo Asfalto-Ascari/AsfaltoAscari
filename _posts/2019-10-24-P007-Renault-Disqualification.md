@@ -5,6 +5,7 @@ date:   2019-10-24 10:17:30 -1
 image:  '/images/Media/007CoverImageRenaultRacingPoint.jpg'
 tags:   
 - Formula 1
+- Headlines
 - Renault
 - Racing Point
 - Disqualification
