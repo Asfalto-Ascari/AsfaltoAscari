@@ -1,11 +1,10 @@
 ---
-layout: page
+layout: tag_page
 title: Race Quarters
 permalink: /RaceQuarters/
-image: '/images/12.jpg'
 ---
 # HTML test
 
-<p>The first paragraph.</p>
+<p>The first paragraph.</p>s
 
 <p>Another paragraph</p>
