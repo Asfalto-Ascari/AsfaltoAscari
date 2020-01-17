@@ -2,7 +2,7 @@
 layout: post
 title:  "Lando Norris Reveals MCL35 Launch Date"
 date:   2020-1-17 21:56:55 -0300
-image:  "/images/Media/009CoverImageKubica.jpg"
+image:  "/images/716F98ED-11CA-4692-870B-99971DA0EB89.jpeg"
 tags:   
 - McLaren
 - MCL35
