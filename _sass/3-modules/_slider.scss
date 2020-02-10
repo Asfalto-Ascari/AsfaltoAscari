@@ -33,7 +33,7 @@
 .slider__main {
   display: flex;
   align-items: center;
-  background: $race-trim-red;
+  background: $defaulted-white;
 
   @media only screen and (max-width: $desktop) {
     flex-direction: column;
