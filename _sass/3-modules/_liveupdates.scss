@@ -1,0 +1,14 @@
+/* Slider */
+.slider {
+  padding: 40px 0;
+  margin: 0 40px 60px;
+  background: $race-trim-red;
+  &.is-disabled {
+    pointer-events: none;
+  }
+
+  @media only screen and (max-width: $desktop) {
+    padding: 0;
+    margin: 0 0 60px;
+  }
+}
