@@ -1,9 +1,13 @@
-/* Slider */
+/* StatsHeader */
 .stats {
+  width: 100%;
   height: 80px;
-  padding: 40px 0;
-  margin: 0 40px 60px;
+  padding: 1%;
+  margin: 0 auto;
   background: $race-trim-red;
+	
+  text-align: center;
+  font-size: 2.1vw
   color: $defaulted-white;
   &.is-disabled {
     pointer-events: none;
