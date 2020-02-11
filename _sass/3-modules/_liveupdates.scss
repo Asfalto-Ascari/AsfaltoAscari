@@ -18,3 +18,14 @@
     margin: 0 0 60px;
   }
 }
+
+}
+hr.emBlock {
+  background-color: $defaulted-white;
+  width: 80%;
+  height: 1px;
+  border: none;
+  margin: auto;
+  /*align: left;*/
+  /*border-top: 1px solid black*/
+}
