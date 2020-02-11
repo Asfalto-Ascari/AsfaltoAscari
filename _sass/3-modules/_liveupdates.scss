@@ -15,16 +15,20 @@
 
   @media only screen and (max-width: $desktop) {
     padding: 0;
-    margin: 0 0 60px;
+    /*margin: 0 0 60px;*/
   }
 }
 
 hr.emBlock {
   background-color: $defaulted-white;
-  width: 80%;
+  width: 85vw;
   height: 1px;
   border: none;
   margin: auto;
   /*align: left;*/
   /*border-top: 1px solid black*/
+  @media only screen and (max-width: $desktop) {
+  padding: 0;
+  /*  margin: 0 0 60px;*/
+  }
 }
