@@ -12,7 +12,11 @@
     margin: 100px 0 60px;
   }
 }
-
+.accent__bar {
+  height: 1px;
+  width: 100%;
+  background-color: $race-trim-red;
+}
 .slider__box {
   height: 571px;
   overflow-y: hidden;
