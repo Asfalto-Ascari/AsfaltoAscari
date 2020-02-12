@@ -1,7 +1,7 @@
 /* Slider */
 .slider {
   padding: 40px 0;
-  margin: 0 40px 60px;
+  margin: 50px 40px 60px;
   background: $light-gray;
   &.is-disabled {
     pointer-events: none;
@@ -9,7 +9,7 @@
 
   @media only screen and (max-width: $desktop) {
     padding: 0;
-    margin: 0 0 60px;
+    margin: 100px 0 60px;
   }
 }
 
