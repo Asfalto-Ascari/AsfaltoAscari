@@ -4,10 +4,9 @@ title:  "JPN GP Renault Disqualification - Sporting Regulation Violation"
 date:   2019-10-24 10:17:30 -1
 image:  '/images/Media/007CoverImageRenaultRacingPoint.jpg.jpg'
 tags:   
-- Headlines
 - Renault
 - Racing Point
-- Disqualification
+- Regulation
 ---
 
 # Renault disqualified from the Japanese GP after FIA Ruling that team was in breach of sporting reglations.
