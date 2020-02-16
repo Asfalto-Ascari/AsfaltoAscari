@@ -11,7 +11,7 @@ tags:
 
 *image credited to Formula1.com*
 
-# Toro Rosso Soon To Be Alpha Tauri
+# Toro Rosso soon to be Alpha Tauri
 
 In a rather interesting event, Red Bull's feeder team Toro Rosso has been **approved for a name change to "Alpha Tauri".**
 
