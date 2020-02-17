@@ -105,11 +105,9 @@ Renault is expected to release their new "testing livery" in the pre-season test
 
 JO
 
+---
 
-
-
-
-Footnote
+References
 
 All items were attained either on the 16th or 17th of February 2020. All rights reserved to copyright holders.
 
