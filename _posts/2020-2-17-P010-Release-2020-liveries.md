@@ -4,7 +4,7 @@ title:  "Release of the 2020 Liveries Overall"
 date:   2020-1-2 21:56:55 -0300
 image:  "/images/Media/010MercW11PressRelease.jpeg"
 tags:   
-- Headline
+- Headlines
 - Liveries
 - Pre-Season
 ---
