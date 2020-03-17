@@ -11,6 +11,9 @@
 
 <script>
 // Set the date we're counting down to
+var Override = true
+var OverrideText = "2020 SEASON NOW EXPECTED TO START AT THE END OF MAY"
+	
 var GP = "Formula 1™ Rolex Australian Grand Prix 2020 : "
 var countDownDate = new Date("Mar 15, 2020 05:10:00").getTime();
 
@@ -37,6 +40,9 @@ var x = setInterval(function() {
   if (distance < 0) {
     clearInterval(x);
     document.getElementById("countdown").innerHTML = "LIVE AT "+GP;
+  };
+  if (Override == true) {
+	document.getElementById("countdown").innerHTML = OverrideText;
   }
 }, 1000);
 </script>
