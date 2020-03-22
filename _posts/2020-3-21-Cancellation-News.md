@@ -19,7 +19,8 @@ It is now unclear if the Bahrain Grand Prix, which was said to be held behind cl
 
 
 Formula One director of motorsports Ross Brawn had this to say about the cancellation:
-####"The scale of this [coronavirus] is massive. We want to build the Formula 1 season back up, but we have to be realistic about when 
+
+#### "The scale of this [coronavirus] is massive. We want to build the Formula 1 season back up, but we have to be realistic about when 
 that can start again." 
 
 
