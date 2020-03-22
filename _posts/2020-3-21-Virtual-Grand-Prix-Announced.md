@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Veloce Esports announce the 'Not the Bahrain GP' race featuring several celebrities and Formula 1 drivers"
+title:  "Veloce Esports announce a virtual Bahrain Grand Prix amid the coronavirus outbreak"
 date:   2020-3-21 18:05:55 +0300
 image:  "/images/Media/f1esports.jpg"
 tags:   
