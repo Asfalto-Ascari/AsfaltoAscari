@@ -5,7 +5,7 @@ date:   2020-3-12 18:05:55 +0300
 image:  "/images/f1cancel.jpeg"
 tags:   
 - FIA
-- Formula 1
+- Headlines
 - Coronavirus
 ---
 
