@@ -11,14 +11,11 @@ tags:
 
 # Due to recent COVID-19 outbreak across the world, Formula One has cancelled the Australian Grand Prix.
 
-After a McLaren F1 Team member was confirmed to be infected with the novel coronavirus, the 2020 Rolex Australian Grand Prix was called off
-in order to preserve public safety as well as the safety of all persons involved in the Grand Prix.
-
+After a McLaren F1 Team member was confirmed to be infected with the novel coronavirus, the 2020 Rolex Australian Grand Prix was called off in order to preserve public safety as well as the safety of all persons involved in the Grand Prix.
 
 It is now unclear if the Bahrain Grand Prix, which was said to be held behind closed doors, will be allowed to proceed further.
 
-
-Formula One director of motorsports Ross Brawn had this to say about the cancellation:
+Formula One™ Director of Motorsports Ross Brawn had this to say about the cancellation:
 
 > "The scale of this [coronavirus] is massive. We want to build the Formula 1 season back up, but we have to be realistic about when that can start again." 
 
