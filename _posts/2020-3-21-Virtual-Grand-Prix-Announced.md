@@ -2,7 +2,7 @@
 layout: post
 title:  "Veloce Esports announce the 'Not the Bahrain GP' race featuring several celebrities and Formula 1 drivers"
 date:   2020-3-21 18:05:55 +0300
-image:  "/images/f1cancel.jpeg"
+image:  "/images/Media/f1esports.jpg"
 tags:   
 - Veloce Esports
 - E-grand prix
