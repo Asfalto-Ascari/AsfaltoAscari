@@ -46,7 +46,7 @@ Formula 1 has announced the postponment of the Azerbaijan Grand Prix, becoming t
 - Azerbaijani GP (Baku)
 
 ### The following Formula 1 events have been cancelled:
-- Monaco GP (Monaco)
+- Monégasque GP (Monaco)
 - Australian GP (Australia)
 
 
