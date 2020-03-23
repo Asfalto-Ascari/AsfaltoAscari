@@ -3,7 +3,7 @@ layout: post
 title:  "Virtual Grand Prix win for Renault in world-first Formula 1 online event"
 date:   2020-03-23 16:03:00 +0000
 image:  "https://www.codemasters.com/wp-content/uploads/2019/03/f1_2019_monza_001.jpg"
-tags:  
+headlines:  
 - Virtual Grand Prix
 - E-sports
 - Bahrain
