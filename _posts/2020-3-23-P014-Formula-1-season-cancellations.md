@@ -36,7 +36,9 @@ Formula 1 has announced the postponment of the Azerbaijan Grand Prix, becoming t
 
 > "This comes as a direct result of the ongoing global COVID-19 pandemic and has been based entirely on the expert guidance provided to us by the relevant authorities."
 
-### Event status (updated as of 23 March)
+
+
+## Event status (updated as of 23 March)
 
 #### The following Formula 1 events were postponed:
 - Dutch GP (Zandvoort)
