@@ -13,9 +13,11 @@ tags:
 
 # F1 2021 Car Tested in Wind Tunnel
 
-We're just about to reach the second month since the FIA Youtube Channel [uploaded their video](https://www.youtube.com/watch?v=sn2eisHLwwk "FIA Wind Tunnel Video") on the 2021 concept's first reveal of specs and tests which have taken place on the scale model. However, with the deadline for the technical rules of the 2021 season nearly reaching its deadline of October 31st, it may be insightful to recap on how the car looked in July and August.
+We're just about to reach the second month since the FIA Youtube Channel uploaded their video on the 2021 concept's first reveal of specs and tests which have taken place on the scale model. However, with the deadline for the technical rules of the 2021 season nearly reaching its deadline of October 31st, it may be insightful to recap on how the car looked in July and August.
 
-Right off the bat we're shown the full half-side profile of the scale model in action in the wind tunnel, and there is much to be found upon looking at the car.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2eisHLwwk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+At the start we're shown the full half-side profile of the scale model in action in the wind tunnel, and there is much to be found upon looking at the car.
 
 As the narrator says in the video:
 
