@@ -17,7 +17,6 @@ Formula 1 has confirmed several other races will be postponed due to the coronav
 
 ![alt text](https://github.com/Asfalto-Ascari-Group/AsfaltoAscari/blob/gh-pages/images/FIA.jpg?raw=true "FIA Flag")
 *image credits to the FIA*
-
 ## 19 March Update
 
 Formula 1 released a statement regarding the recent postponments and cancellations:
@@ -28,8 +27,7 @@ Formula 1 released a statement regarding the recent postponments and cancellatio
 In other news, the FIA has announced the postponement of the 2021 chassis regulations until 2022. However, the 2021 financial regulations will continue to be implemented. The 2021 season will use the same chassis as the 2020 cars.
 
 ![alt text](https://github.com/Asfalto-Ascari-Group/AsfaltoAscari/blob/gh-pages/images/AZPitLane.jpg?raw=true "Baku City Circuit Pit Lane")
-*image credits to motorsport.com/ LATImages*
-
+*image credits to motorsport.com/ LATIMAGES*
 ## 23 March Update 
 
 Formula 1 has announced the postponment of the Azerbaijan Grand Prix, becoming the 8th Grand Prix to either be postponed or cancelled this year.
