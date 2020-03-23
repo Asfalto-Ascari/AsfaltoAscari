@@ -1,7 +1,7 @@
 --- 
 layout: post
 title:  "LIVE: Which Formula 1 Races Have Been Cancelled Due To COVID-19?"
-date:   2020-3-21 18:05:55 +0300
+date:   2020-3-23 18:05:55 +0300
 image:  "/images/renaultmask.jpg"
 tags:   
 - Headlines
