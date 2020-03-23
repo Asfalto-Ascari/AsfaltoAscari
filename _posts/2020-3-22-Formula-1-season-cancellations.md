@@ -12,7 +12,7 @@ tags:
 # Formula 1 announces more grands prix have been postponed or cancelled due to the health concerns presented by the coronavirus pandemic.
 
 Worries arose for the constructor's and fans after the original cancellation of the Chinse Grand Prix regarding the coronavirus outbreak
-originating from Wuhan, China. After the original announcement of the postponment of the 2020 Rolex Australian Grand Prix and that the Bahrain Grand Prix would be held behind closed doors,
+originating from Wuhan, China. After the original announcement of the postponment of the Australia Grand Prix and that the Bahrain Grand Prix would be held behind closed doors,
 Formula 1 has confirmed several other races will be postponed due to the coronavirus.
 
 
@@ -21,7 +21,7 @@ Formula 1 has confirmed several other races will be postponed due to the coronav
 ### The following Formula 1 events were postponed:
 - Dutch GP (Zandvoort)
 - Spanish GP (Catalonia)
-- BahrainiGP (Sakhir)
+- Bahraini GP (Sakhir)
 - Vietnamese GP (Hanoi)
 
 ### The following Formula 1 events were cancelled:
