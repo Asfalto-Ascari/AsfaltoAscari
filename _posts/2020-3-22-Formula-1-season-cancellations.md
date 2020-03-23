@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Formula 1 announces more grands prix have been postponed due to coronavirus"
+title:  "LIVE: Which Formula 1 Races Have Been Cancelled Due To COVID-19?"
 date:   2020-3-21 18:05:55 +0300
 image:  "/images/Media/f1esports.jpg"
 tags:   
