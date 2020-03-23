@@ -22,6 +22,8 @@ Formula 1 released a statement regarding the recent postponments and cancellatio
 
 > Formula 1 and the FIA expect to begin the 2020 championship season as soon as it's safe to do so after May and will continue to regularly monitor the ongoing COVID-19 situation.
 
+In other news, the FIA has announced the postponement of the 2021 chassis regulations until 2022. However, the 2021 financial regulations will continue to be implemented. The 2021 season will use the same chassis as the 2020 cars.
+
 ## Updated as of 22 March
 
 ### The following Formula 1 events were postponed:
