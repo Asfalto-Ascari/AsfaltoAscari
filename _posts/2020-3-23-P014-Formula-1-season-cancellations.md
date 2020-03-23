@@ -18,7 +18,21 @@ Formula 1 has confirmed several other races will be postponed due to the coronav
 
 ![alt text](https://github.com/Asfalto-Ascari-Group/AsfaltoAscari/blob/gh-pages/images/FIA.jpg?raw=true "FIA Flag")
 *image credits to the FIA*
-## 19 March Update
+
+---
+
+
+
+23/03  Update 
+---
+
+Formula 1 has announced the postponement of the Azerbaijan Grand Prix, becoming the 8th Grand Prix to either be postponed or canceled this year.
+
+> "This comes as a direct result of the ongoing global COVID-19 pandemic and has been based entirely on the expert guidance provided to us by the relevant authorities."
+
+
+19/03 Update
+---
 
 Formula 1 released a statement regarding the recent postponements and cancellations:
 > Formula 1 and the FIA continue to work closely with affected promoters and local authorities to monitor the situation and take the appropriate amount of time to study the viability of potential alternative dates for each Grand Prix later in the year should the situation improve.
@@ -29,30 +43,31 @@ In other news, the FIA has announced the postponement of the 2021 chassis regula
 
 ![alt text](https://github.com/Asfalto-Ascari-Group/AsfaltoAscari/blob/gh-pages/images/AZPitLane.jpg?raw=true "Baku City Circuit Pit Lane")
 *image credits to motorsport.com/ LATIMAGES*
-## 23 March Update 
-
-Formula 1 has announced the postponement of the Azerbaijan Grand Prix, becoming the 8th Grand Prix to either be postponed or canceled this year.
-
-> "This comes as a direct result of the ongoing global COVID-19 pandemic and has been based entirely on the expert guidance provided to us by the relevant authorities."
 
 
 
-## Event status (updated as of 23 March)
 
-#### The following Formula 1 events were postponed:
+Event statuses (updated as of 23 March)
+---
+
+#### The following Formula 1 events were POSTPONED:
+
 - Dutch GP (Zandvoort)
 - Spanish GP (Catalonia)
 - Bahraini GP (Sakhir)
 - Vietnamese GP (Hanoi)
 - Azerbaijani GP (Baku)
 
-#### The following Formula 1 events have been canceled:
+#### The following Formula 1 events have been CANCELLED:
+
 - Monégasque GP (Monaco)
 - Australian GP (Australia)
 
 
-
-
-This article will continue to be updated as the situation of the season continues to unfold.
+**This article will continue to be updated as the situation of the season continues to unfold.**
 
 *cover image credits to motorsport.com*
+
+---
+
+JS
