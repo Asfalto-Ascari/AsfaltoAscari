@@ -16,7 +16,7 @@ originating from Wuhan, China. After the original announcement of the postponmen
 Formula 1 has confirmed several other races will be postponed due to the coronavirus.
 
 
-#### Updated as of 22 March
+## Updated as of 22 March
 
 ### The following Formula 1 events were postponed:
 - Dutch GP (Zandvoort)
@@ -28,7 +28,8 @@ Formula 1 has confirmed several other races will be postponed due to the coronav
 - Monaco GP (Monaco)
 - Australian GP (Australia)
 
-#### 19 March Update
+## 19 March Update
+
 Formula 1 released a statement regarding the recent postponments and cancellations:
 > Formula 1 and the FIA continue to work closely with affected promoters and local authorite sto monitor the situation and take the appropriate amount of time to study the viability of potential alternative dates for each Grand Prix later in the year should the situation improve.
 
