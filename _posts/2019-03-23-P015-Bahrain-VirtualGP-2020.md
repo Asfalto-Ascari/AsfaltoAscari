@@ -7,7 +7,7 @@ headlines:
 - Virtual Grand Prix
 - E-sports
 - Bahrain
-
+- Headlines
 ---
 
 # Virtual Grand Prix: Renault takes lead in new Formula 1 event at Bahrain.
