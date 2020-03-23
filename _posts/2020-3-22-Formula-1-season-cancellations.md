@@ -15,6 +15,12 @@ Worries arose for the constructor's and fans after the original cancellation of 
 originating from Wuhan, China. After the original announcement of the postponment of the Australia Grand Prix and that the Bahrain Grand Prix would be held behind closed doors,
 Formula 1 has confirmed several other races will be postponed due to the coronavirus.
 
+## 19 March Update
+
+Formula 1 released a statement regarding the recent postponments and cancellations:
+> Formula 1 and the FIA continue to work closely with affected promoters and local authorite sto monitor the situation and take the appropriate amount of time to study the viability of potential alternative dates for each Grand Prix later in the year should the situation improve.
+
+> Formula 1 and the FIA expect to begin the 2020 championship season as soon as it's safe to do so after May and will continue to regularly monitor the ongoing COVID-19 situation.
 
 ## Updated as of 22 March
 
@@ -28,12 +34,6 @@ Formula 1 has confirmed several other races will be postponed due to the coronav
 - Monaco GP (Monaco)
 - Australian GP (Australia)
 
-## 19 March Update
-
-Formula 1 released a statement regarding the recent postponments and cancellations:
-> Formula 1 and the FIA continue to work closely with affected promoters and local authorite sto monitor the situation and take the appropriate amount of time to study the viability of potential alternative dates for each Grand Prix later in the year should the situation improve.
-
-> Formula 1 and the FIA expect to begin the 2020 championship season as soon as it's safe to do so after May and will continue to regularly monitor the ongoing COVID-19 situation.
 
 
 
