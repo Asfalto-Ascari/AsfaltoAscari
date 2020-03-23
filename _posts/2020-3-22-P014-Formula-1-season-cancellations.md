@@ -8,9 +8,8 @@ tags:
 - COVID-19
 - FIA
 ---
-*image credit to motorsport.com*
 
-# Formula 1 announces more grands prix have been postponed or cancelled due to the health concerns presented by the coronavirus pandemic.
+# Formula 1 announces more races have been postponed or cancelled due to the health concerns presented by the coronavirus pandemic.
 
 Worries arose for the constructor's and fans after the original cancellation of the Chinese Grand Prix regarding the COVID-19 outbreak
 originating from Wuhan, China. After the original announcement of the postponment of the Australia Grand Prix and that the Bahrain Grand Prix would be held behind closed doors,
@@ -29,7 +28,7 @@ Formula 1 released a statement regarding the recent postponments and cancellatio
 In other news, the FIA has announced the postponement of the 2021 chassis regulations until 2022. However, the 2021 financial regulations will continue to be implemented. The 2021 season will use the same chassis as the 2020 cars.
 
 ![alt text](https://github.com/Asfalto-Ascari-Group/AsfaltoAscari/blob/gh-pages/images/AZPitLane.jpg?raw=true "Baku City Circuit Pit Lane")
-*image credits to motorsport.com*
+*image credits to motorsport.com/ LATImages*
 
 ## 23 March Update 
 
@@ -54,3 +53,5 @@ Formula 1 has announced the postponment of the Azerbaijan Grand Prix, becoming t
 
 
 This article will continue to be updated as the situation of the season continues to unfold.
+
+*cover image credits to motorsport.com*
