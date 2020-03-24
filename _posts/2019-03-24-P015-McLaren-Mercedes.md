@@ -3,7 +3,7 @@ layout: post
 title: "McLaren Confirmed to Switch to Mercedes Power"
 date: 2020-03-24 09:25:00 +0000
 image: 'https://www.formula1.com/content/dam/fom-website/sutton/2020/Testing/BarcelonaTestTwo/DayThree/1209229794.jpg.transform/9col/image.jpg'
-headlines:
+tags:
 - Formula 1
 - McLaren
 - Teams
