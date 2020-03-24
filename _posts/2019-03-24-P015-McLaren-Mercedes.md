@@ -23,7 +23,7 @@ When McLaren made the switch from Honda power to Renault power they had to deal 
 
 > But McLaren have experience of such a challenge, having made a late call to swap from Honda to Renault power for 2018. They made it work. This time around, they have more time to find a way to make the unit sit comfortably.
 
-One can only hope what the future brings.
+We hope you are as excited as us to see what new and exciting possibilities this brings for both teams.
 
 ---
 
