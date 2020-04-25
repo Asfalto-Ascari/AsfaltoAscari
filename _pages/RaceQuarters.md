@@ -15,8 +15,8 @@ within the "twitch-embed" root element.
 -->
 <script type="text/javascript">
 var embed = new Twitch.Embed("twitch-embed", {
-width: 854,
-height: 480,
+width: "100%",
+height: "100%",
 channel: "asfaltoascari",
 layout: "video",
 autoplay: false,
