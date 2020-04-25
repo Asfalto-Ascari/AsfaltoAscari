@@ -4,7 +4,31 @@ title: Race Quarters
 permalink: /RaceQuarters/
 ---
 
-<iframe src="https://player.twitch.tv/?channel=asfaltoascari" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width:100%></iframe><a href="https://www.twitch.tv/asfaltoascari?tt_content=text_link&tt_medium=live_embed" style="padding:2px 0px 4px; display:block; width:345px; font-weight:normal; font-size:10px; text-decoration:underline;">Watch live video from AsfaltoAscari on www.twitch.tv</a>
+<div id="twitch-embed"></div>
+
+<!-- Load the Twitch embed script -->
+<script src="https://embed.twitch.tv/embed/v1.js"></script>
+
+<!--
+Create a Twitch.Embed object that will render
+within the "twitch-embed" root element.
+-->
+<script type="text/javascript">
+var embed = new Twitch.Embed("twitch-embed", {
+width: 854,
+height: 480,
+channel: "asfaltoascari",
+layout: "video",
+autoplay: false,
+// only needed if your site is also embedded on embed.example.com and othersite.example.com 
+<!--parent: ["embed.example.com", "othersite.example.com"] -->
+});
+
+embed.addEventListener(Twitch.Embed.VIDEO_READY, () => {
+var player = embed.getPlayer();
+player.play();
+});
+</script>
 
 <div style="background-image:url('http://corporate.asfaltoascari.com/Images/AsfaltoCorpBackground.png');background-size : cover; background-position: right bottom; width:1080px ;height :35vw">
 	<div class ="option">
