@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Ricciardo Joins McLaren F1 for the 2021 Season"
-date:   2020-05-16 23:22:55 +2100
+date:   2020-05-16 23:22:55 +01:00
 image:  '/images/Media/100RiccardoAndLando.jpg'
 tags:   
 - Riccardo
 - McLaren
-- Renault
+- Headlines
 ---
 
 # Daniel Riccardo is to be taking the seat next to Lando Norris for McLaren in 2021. Replacing Carlos Sainz who is moving to Ferrari.
