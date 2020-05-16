@@ -3,8 +3,7 @@ layout: post
 title:  "The Release of the 2020 Liveries"
 date:   2020-02-01 21:56:55 -0300
 image:  "/images/Media/010MercW11PressRelease.jpeg"
-tags:   
-- Headlines
+tags: 
 - Liveries
 - Pre-Season
 ---
