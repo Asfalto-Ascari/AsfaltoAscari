@@ -13,7 +13,7 @@ tags:
 
 This switch was announced in a surprise amalgamation of media announcements.
 
-The decision to create what is potentially the most humorous iconic duo has been supported by McLaren fans in reference to the episode that occurred in the 2019 British GP press conference:
+The decision to create what is potentially the most humorous iconic duo has been widely supported by McLaren fans. Some fans "can't wait for more of these two" in reference to the episode that occurred in the 2019 British GP press conference:
 
 <iframe src="https://www.youtube.com/embed/l20BlZn1yv4" frameborder="0" allowfullscreen></iframe>  
 
@@ -25,7 +25,7 @@ McLaren CEO **Zak Brown** said that
 
 > Signing Daniel is another step forward in our long-term plan and will bring an exciting new dimension to the team, alongside Lando. This is good news for our team, partners and of course our fans.
 
-He also added a thankful farewell by paying tribute to *Carlos Sainz Jr*: 
+Zak Brown also added a thankful farewell by paying tribute to *Carlos Sainz Jr* : 
 
 > I also want to pay tribute to Carlos for the excellent job he has been doing for McLaren in helping our performance recovery plan. He is a real team player and we wish him well for his future beyond McLaren.
 
