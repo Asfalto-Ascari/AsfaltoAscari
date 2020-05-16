@@ -1,7 +1,7 @@
 --- 
 layout: post
 title:  "LIVE: Which Formula 1 Races Have Been Canceled Due To COVID-19?"
-date:   2020-3-23 18:05:55 +0300
+date:   2020-5-16 23:13:55 +0100
 image:  "/images/renaultmask.jpg"
 live:	true
 tags:   
@@ -19,9 +19,33 @@ Formula 1 has confirmed several other races will be postponed due to the coronav
 ![alt text](https://github.com/Asfalto-Ascari-Group/AsfaltoAscari/blob/gh-pages/images/FIA.jpg?raw=true "FIA Flag")
 *image credits to the FIA*
 
+
+Event statuses (updated as of 16 May)
 ---
 
+#### The following Formula 1 events are POSTPONED:
 
+- 8 Azerbaijani GP 
+- 9 Canadian GP
+
+#### The following Formula 1 events have been CANCELLED:
+
+- 1 Australian GP
+- 2 Bahrain GP 
+- 3 Vietnamese GP 
+- 4 Chinese GP
+- 5 Dutch GP
+- 6 Spanish GP
+- 7 Monaco GP
+- 10 French GP
+
+
+---
+
+16/05 Update
+---
+
+With the first ten races already cancelled, the FIA says it expects the 2020 season to begin "as soon as it is safe to do so after May".
 
 23/03  Update 
 ---
@@ -45,29 +69,10 @@ In other news, the FIA has announced the postponement of the 2021 chassis regula
 *image credits to motorsport.com/ LATIMAGES*
 
 
-
-
-Event statuses (updated as of 23 March)
----
-
-#### The following Formula 1 events were POSTPONED:
-
-- Dutch GP (Zandvoort)
-- Spanish GP (Catalonia)
-- Bahraini GP (Sakhir)
-- Vietnamese GP (Hanoi)
-- Azerbaijani GP (Baku)
-
-#### The following Formula 1 events have been CANCELLED:
-
-- Monégasque GP (Monaco)
-- Australian GP (Australia)
-
-
-**This article will continue to be updated as the situation of the season continues to unfold.**
+**This article will continue to update as the situation of the season continues to unfold.**
 
 *cover image credits to motorsport.com*
 
 ---
 
-JS
+JS & AP
