@@ -13,7 +13,7 @@ image credits to formula1.com
 
 McLaren has officially switched from Renault power to Mercedes power.
 
-***CHASSI ISSUES***
+***CHASSIS ISSUES***
 
 When McLaren made the switch from Honda power to Renault power they had to deal with the issue of space: Where to put the new units?
 
