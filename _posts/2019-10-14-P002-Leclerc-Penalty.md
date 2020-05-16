@@ -4,7 +4,6 @@ title:  "Leclerc's Double Penalty Finishing at P7"
 date:   2019-10-13 17:07:55 +0000
 image:  '/images/Media/002LeclercSundaySitting.jpg'
 tags:   
-- Headlines
 - Japanese GP
 - Formula 1
 - FIA
