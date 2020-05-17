@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /Attribution/
 title:  "3rd Party Content Attribution & Credits"
 date:   2020-5-17 23:13:55 +0100
 invisible : true
