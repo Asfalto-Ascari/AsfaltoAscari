@@ -1,6 +1,6 @@
 title: Asfalto Ascari
 logo: '/images/WebDesign/PNG/AsfaltoAscariLogo1K_WT.png'
-description: Formula 1™ Community - Broadcast Media, Racing and Discussion.
+description: Formula 1™ & Motorsports Community - Broadcast Media, Racing and Discussion.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -16,7 +16,7 @@ contact:
 - {name: "Twitter", icon: "ion-logo-twitter", link: "https://twitter.com/AsfaltoAscari"}
 - {name: "Facebook", icon: "ion-logo-facebook", link: "https://www.facebook.com/AsfaltoAscari"}
 #- {name: "Dribbble", icon: "ion-logo-dribbble", link: "https://dribbble.com"}
-- {name: "Instagram", icon: "ion-logo-instagram", link: "https://www.instagram.com/asfalto.ascari/"}
+- {name: "Instagram", icon: "ion-logo-instagram", link: "https://www.instagram.com/asfaltoascari/"}
 # - {name: "Pinterest", icon: "ion-logo-pinterest", link: "https://pinterest.com"}
 - {name: "Email", icon: "ion-md-send", link: "mailto:mediarelations@asfaltoascari.com"}
 - {name: "Corporate", icon: "ion-md-business", link: "https://corporate.asfaltoascari.com"}
