@@ -49,7 +49,7 @@ plugins:
   - github-pages-health-check
 
 paginate: 15
-paginate_path: "/page/:num"
+paginate_path: "/Articles/:num"
 
 # Pages Path
 defaults:
