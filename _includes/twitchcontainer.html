@@ -1,21 +1,8 @@
-<!-- begin container -->
-<nav class="twitchcontainer">
-  <div class="container">
-     <!-- Add a placeholder for the Twitch embed -->
-    <div id="twitch-embed"></div>
-
-    <!-- Load the Twitch embed script -->
-    <script src="https://embed.twitch.tv/embed/v1.js"></script>
-
-    <!-- Create a Twitch.Embed object that will render within the "twitch-embed" root element. -->
-    <script type="text/javascript">
-      new Twitch.Embed("twitch-embed", {
-        width: 1300,
-        height: 560,
-        channel: "asfaltoascari",
-        // only needed if your site is also embedded on embed.example.com and othersite.example.com 
-      });
-    </script>
+<div class='twitchWrapper'>
+  <div class='twitchStream'>
+    <iframe src="https://player.twitch.tv/?channel=asfaltoascari" frameborder="0" scrolling="no"></iframe>
   </div>
-</nav>
-<!-- end pagination -->
+  <div class='twitchChat'>
+    <iframe frameborder="0" scrolling="no" src="https://www.twitch.tv/embed/asfaltoascari/chat"></iframe>
+  </div>
+</div>
