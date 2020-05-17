@@ -1,13 +1,16 @@
 <div class="container">
 	<div class='twitchWrapper'>
-		<iframe
-			src="https://player.twitch.tv/?asfaltoascari&parent=asfaltoascari.com"
-			height="500"
-			width="100%"
-			frameborder="<frameborder>"
-			scrolling="<scrolling>"
-			allowfullscreen="<allowfullscreen>">
-		</iframe>
+		<script src= "https://player.twitch.tv/js/embed/v1.js"></script>
+		<div id="D8182"></div>
+		<script type="text/javascript">
+		  var options = {
+			width: "100%",
+			height: "900",
+			channel: "asfaltoascari",
+		  };
+		  var player = new Twitch.Player("D8182", options);
+		  player.setVolume(0.5);
+		</script>
 			
 	</div>
 </div>
