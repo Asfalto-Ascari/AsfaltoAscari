@@ -46,10 +46,9 @@
 }
 
 .slider__content {
-  order: -1;
-  width: 40%;
-  padding: 60px 60px 30px;
-  display: inline-block;
+  order: 1;
+  width: 65%;
+  padding: 60px 50px 30px;
 
   .slider__title {
     max-width: 350px;
