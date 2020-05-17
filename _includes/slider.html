@@ -31,7 +31,7 @@
 
                       <h1 class="slider__title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
                       <p class="slider__excerpt">
-                          {% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | truncate: 400 }}{% endif %}
+                          {% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | truncate: 300 }}{% endif %}
                       </p>
 
                       <ul class="slider__list list-reset">
