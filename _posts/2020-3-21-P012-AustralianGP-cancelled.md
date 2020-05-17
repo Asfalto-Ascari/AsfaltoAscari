@@ -4,7 +4,7 @@ title:  "Formula 1 Announces the Cancellation of the Australian Grand Prix"
 date:   2020-3-12 18:05:55 +0300
 image:  "/images/f1cancel.jpeg"
 tags:   
-- Headlines
+- Australia
 - FIA
 - Coronavirus
 ---
