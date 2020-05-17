@@ -1,0 +1,60 @@
+---
+layout: default
+---
+<div class="container">
+  <div class="row">
+    <div class="col col-7 col-d-10 col-m-12 push-m-0 push-d-1 push-2">
+
+      <div class="post-head">
+        <div class="post-info">
+          {% if page.tags.size >= 1 %}
+            <div class="post-tags">
+              {% for tag in page.tags %}
+                <a href="{{ site.baseurl }}/tag/{{ tag }}" class="post-tags__tag">{{ tag }}</a>
+              {% endfor %}
+            </div>
+          {% endif %}
+          <span class="post-date">
+            <time datetime="{{ page.date | date_to_xmlschema }}">{{page.date | date: '%b %d, %Y'}}</time>
+          </span>
+        </div>
+        <h1 class="post-title">{{ page.title | escape }}</h1>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+{% if page.image %}
+<div class="container">
+  <div class="row">
+    <div class="col col-8 col-d-10 col-m-12 push-m-0 push-d-1 push-2">
+      <div class="image-box">
+        <div class="post-image" style="background-image: url({{site.baseurl}}{{page.image}})"></div>
+      </div>
+    </div>
+  </div>
+</div>
+{% endif %}
+
+<div class="container">
+  <div class="row">
+    <div class="col col-8 col-d-10 col-m-12 push-m-0 push-d-1 push-2">
+      <!-- begin post -->
+      <article class="post">
+
+        <div class="post__content">
+          {{ content }}
+        </div>
+
+
+        <div class="author-image-box">
+          <a href="{{site.baseurl}}/about/" class="author__image" style="background-image: url({{site.baseurl}}{{site.author.image}})" aria-label="{{site.author.name}}"></a>
+          <a class="author__name" href="{{site.baseurl}}/about/">{{site.author.name}}</a>
+        </div>
+
+      </article>
+      <!-- end post -->
+    </div>
+  </div>
+</div>
